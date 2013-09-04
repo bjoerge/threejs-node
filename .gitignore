@@ -1,0 +1,12 @@
+.DS_Store
+.idea
+lib-cov
+*.seed
+*.log
+*.dat
+*.out
+*.pid
+*.gz
+
+npm-debug.log
+node_modules
