@@ -1,6 +1,6 @@
 {
   "name": "three",
-  "version": "0.0.0",
+  "version": "0.0.60",
   "description": "Node/Browserify compatible version of Three.js",
   "main": "three.js",
   "scripts": {
